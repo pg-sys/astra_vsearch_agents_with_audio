@@ -1,4 +1,4 @@
-# Vector Search Agents with Audi support for Q/A
+# Vector Search Agents with Audio support for Q/A
 
 ## Sample Company - Call Center Support
 This project is a sample implementation of a call center support system that utilizes large language models (LLMs) and audio input to provide accurate and contextual responses to customer queries. The system is built using Python and utilizes various libraries, including Streamlit, OpenAI, and PIL.
